@@ -3,46 +3,46 @@
 <!--
 **neha-dhage/neha-dhage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- I am a recent graduate from School of Information at UC Berkeley with Master of Information and Cyber Security (MICS)
-and Certificate in Applied Data Science, with academic research and projects focused on AI security, Adversarial
-Machine Learning, and Policy-driven Governance of emerging technologies. I am a Cybersecurity and Technology risk
-professional with over nine years of experience in enterprise security governance, risk and control and auditing,
-across financial services and technology industries. I am experienced in translating complex technical risks into
-actionable governance and control frameworks and collaborating with cross-functional stakeholders including
-engineers, security teams, regulators, and policy practitioners.
+##- I am a recent graduate from School of Information at UC Berkeley with Master of Information and Cyber Security (MICS)
+##and Certificate in Applied Data Science, with academic research and projects focused on AI security, Adversarial
+##Machine Learning, and Policy-driven Governance of emerging technologies. I am a Cybersecurity and Technology risk
+##professional with over nine years of experience in enterprise security governance, risk and control and auditing,
+##across financial services and technology industries. I am experienced in translating complex technical risks into
+##actionable governance and control frameworks and collaborating with cross-functional stakeholders including
+##engineers, security teams, regulators, and policy practitioners.
 
-- My expertise includes -  
-      - AI and Cyber Security, Machine Learning (ML) and Adversarial ML, Natural Language Processing and Deep
-      Learning
-      - AI Risk Governance & Technology Policy, Enterprise Security Governance, Risk and Controls, Risk Assessment
-      and Mitigation.
-      - Cross-functional Collaboration, Stakeholder/Client Relationship Management and Communication.
-      - Collaborative documentation tools, Technical Documentation and Analytical Reporting, Policy and procedure
-      creation.
+##- My expertise includes -  
+##      - AI and Cyber Security, Machine Learning (ML) and Adversarial ML, Natural Language Processing and Deep
+##      Learning
+##      - AI Risk Governance & Technology Policy, Enterprise Security Governance, Risk and Controls, Risk Assessment
+##      and Mitigation.
+##      - Cross-functional Collaboration, Stakeholder/Client Relationship Management and Communication.
+##      - Collaborative documentation tools, Technical Documentation and Analytical Reporting, Policy and procedure
+##      creation.
       
-- My recent education, research and project details - 
+##- My recent education, research and project details - 
 
-University of California, Berkeley - 
+##University of California, Berkeley - 
 
-MASTER OF INFORMATION AND CYBERSECURITY (MICS) AUG 2024 – MAY 2026
-CERTIFICATE OF APPLIED DATA SCIENCE JAN 2025 – AUG 2025
+##MASTER OF INFORMATION AND CYBERSECURITY (MICS) AUG 2024 – MAY 2026
+##CERTIFICATE OF APPLIED DATA SCIENCE JAN 2025 – AUG 2025
 
-Coursework –
-o Web Application Security Assessment
-o Cryptography for Cyber and Network Security
-o Operating Systems Security
-o Network Security
-o Software Security
-o Security Operations
-o Privacy Engineering
-o Applied Machine Learning for Cybersecurity
-o Natural Language Processing with Deep Learning
-o Research Design and Applications for Data and Analysis
+##Coursework –
+##o Web Application Security Assessment
+##o Cryptography for Cyber and Network Security
+##o Operating Systems Security
+##o Network Security
+##o Software Security
+##o Security Operations
+##o Privacy Engineering
+##o Applied Machine Learning for Cybersecurity
+##o Natural Language Processing with Deep Learning
+##o Research Design and Applications for Data and Analysis
 
-Research and Technical projects in Adversarial Machine Learning, Deep Learning, Natural Language
-Processing and Agent Security-
+##Research and Technical projects in Adversarial Machine Learning, Deep Learning, Natural Language
+##Processing and Agent Security-
 
-1) Agent Credential Firewall (CAPSTONE PROJECT - SPRING 2026)
+##1) Agent Credential Firewall (CAPSTONE PROJECT - SPRING 2026)
 
 Agent Credential Firewall is a capstone project that explores how organizations can securely manage
 and control the use of credentials by autonomous AI agents interacting with enterprise systems. As AI
@@ -214,3 +214,4 @@ Earlier Education -
       - Advanced Experimental Design Methods - (Quantitative Research Methods)
 
       Nagpur University, India BACHELOR OF ENGINEERING (BE), ELECTRICAL ENGINEERING 2002 - 2006
+**
